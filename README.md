@@ -158,3 +158,7 @@ an accepted message in canonical form.
 
 Modules follow the pipeline: `lexer`, `token`, `parser`, `ast`, `sema`, `emit`, with `span`
 and `diagnostic` shared by all of them.
+
+## License
+
+MIT, see [LICENSE](LICENSE).

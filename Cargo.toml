@@ -4,6 +4,9 @@ version = "0.1.0"
 edition = "2024"
 description = "A compiler for Conventional Commits messages: lexer, parser, semantic checks and emitters"
 license = "MIT"
+authors = ["Hector Lachambre <hectorlachambre.pro@gmail.com>"]
+repository = "https://github.com/hector-lachambre/ccc"
+readme = "README.md"
 keywords = ["conventional-commits", "git", "lint", "parser"]
 categories = ["command-line-utilities", "development-tools", "parser-implementations"]
 
